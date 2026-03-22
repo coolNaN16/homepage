@@ -153,7 +153,7 @@ function inputXML(xml) {
 
     document.getElementById("section-column").innerHTML = ""
     document.getElementById("aside-column").innerHTML = ""
-    if (window.location.href.includes("index.html")) {
+    if (window.location.href.includes("index.html") || window.location.href == "https://coolnan16.github.io/homepage/") {
         loadPosts(posts)
     } else if (window.location.href.includes("gallery.html")) {
         loadPosts(gallery_posts)
