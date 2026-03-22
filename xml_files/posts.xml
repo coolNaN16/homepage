@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+<!-- HOME -->
+    <post>
+        <title> Hello World! </title>
+        <content> Welcome to my website! </content>
+        <type> section </type>
+        <flex-align> center </flex-align>
+        <text-align> center </text-align>
+        <loc> home </loc>
+    </post>
+
+    <post>
+        <title> About Me </title>
+        <content> <![CDATA[ 
+                    <span class='bold'>Hello there</span>, my name is Kenzie!, <br> 
+                    I made this website for fun, maybe to post stuffs but idk <br><br> 
+                    <img src='images/conan_yawn.jpg' style='height: 250px; aspect-ratio: 1;'> <br><br> 
+                    I really like Detective Conan, as you can see, <br> 
+                    other than that, I like Sherlock, Death Note, and maybe Dr. Who. <br> 
+                    I also like programming, making games, websites, etc. <br> ]]> 
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> home </loc>
+    </post>
+
+<!-- GALLERY -->
+    <post>
+        <title> Profile Picture Prototypes </title>
+        <content> <![CDATA[<br>
+                    <img class="_100px-square" src="images/coolNaN16.webp" style="margin: 5px;">
+                    <img class="_100px-square" src="images/coolNaN16_2.webp" style="margin: 5px;">
+                    <img class="_100px-square" src="images/coolNaN16_3.webp" style="margin: 5px;"> <br><br>
+                    Here is the <span class="italic"> evolution </span> of my pfp! <br>
+                    (im so bad at this)]]> </content>
+        <type> section </type>
+        <flex-align> center </flex-align>
+        <text-align> center </text-align>
+        <loc> gallery </loc>
+    </post>
+
+
+<!-- GAMES -->
+    <!-- <post>
+        <title> Gravipong </title>
+        <content> <![CDATA[<br> 
+                    A pong with gravity! (someone probably already made this, but ehh)  <br><br>
+                    <img class="_250px-square" src="other_files/Gravipong/Gravipong_icon.png" style="padding: 5px; background-color: white;"> <br><br>
+                    <a href="other_files/Gravipong/Gravipong-v1.03.exe" download="Gravipong-v1.03.exe"> Gravipong.exe </a> <br>
+                    (idk why but the game got flagged by windows defender, im new to this ;-;)
+        ]]>
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> games </loc>
+    </post> -->
+
+    <post>
+        <title> Find the Color </title>
+        <content> <![CDATA[<br> 
+                    You must find the odd one out!  <br><br>
+                    <iframe src="https://kenziecool62.github.io/FindTheColor/" title="FindTheColor" style="width: 100%; height: 500px;"></iframe> <br><br>
+                    <a href="https://kenziecool62.github.io/FindTheColor/"> Click here to visit the site! </a> <br>
+        ]]>
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> games </loc>
+    </post>
+
+    <post>
+        <title> Guess the Color </title>
+        <content> <![CDATA[<br> 
+                    You must guess the color! using rgb values  <br><br>
+                    <iframe src="https://kenziecool62.github.io/GuessTheColor/" title="FindTheColor" style="width: 100%; height: 500px;"></iframe> <br><br>
+                    <a href="https://kenziecool62.github.io/GuessTheColor/"> Click here to visit the site! </a> <br>
+        ]]>
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> games </loc>
+    </post>
+
+<!-- LINKS -->
+    <post>
+        <title> Socials </title>
+        <content> <![CDATA[<br> 
+                    <img src="images/coolNaN16_2.webp" style="width: 200px; aspect-ratio: 1;">
+                    <br><br> 
+                    ╔═■ <span class="bold">Discord:</span> <a href="404.html"> @kenzie_cool16 </a> <br>
+                    ╚═■ <span class="bold">And that's it ;-; </span>
+                    ]]>
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> links </loc>
+    </post>
+
+    <post>
+        <title> Other sites </title>
+        <content> <![CDATA[<br> 
+                    Links to all of my websites (maybe not all):
+                    <br><br> 
+                    ╔═■ <a href="https://kenziecool62.github.io/FindTheColor/"> Find The Color </a> <br>
+                    ╠═■ <a href="https://kenziecool62.github.io/GuessTheColor/"> Guess The Color </a> <br>
+                    ╠═■ <a href="https://kenziecool62.github.io/RedAndBlue/"> Red And Blue </a> <br>
+                    ╠═■ <a href="https://kenziecool62.github.io/RandomColorPicker/"> Random Color Generator </a> <br>
+                    ╚═■ <a href="https://kenziecool62.github.io/MovementDemo/"> Movement Demo </a> <br>
+                    ]]>
+        </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> links </loc>
+    </post>
+
+
+<!-- ASIDE -->
+    <post>
+        <title> Socials </title>
+        <content> <![CDATA[<br> 
+                    <img src="images/coolNaN16_2.webp" style="width: 100px; aspect-ratio: 1;">
+                    <br><br> 
+                    <a href="404.html"> @kenzie_cool16 </a> 
+                    ]]>
+        </content>
+        <type> aside </type>
+        <flex-align> center </flex-align>
+        <text-align> center </text-align>
+        <loc> aside </loc>
+    </post>
+
+    <post>
+        <title> Haibara </title>
+        <content> <![CDATA[<br> 
+                    <img src="images/haibara/haibara_malicious.jpg" class="_100px-square" style="margin: 5px;">
+                    <img src="images/haibara/haibara_mad.jpg" class="_100px-square" style="margin: 5px;">
+                    <br><br> 
+                    Haibara
+                    ]]>
+        </content>
+        <type> aside </type>
+        <flex-align> center </flex-align>
+        <text-align> center </text-align>
+        <loc> aside </loc>
+    </post>
+</doc>
