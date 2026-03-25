@@ -42,6 +42,21 @@
         <loc> gallery </loc>
     </post>
 
+    <post>
+        <title> Found some old stuffs :) </title>
+        <content> <![CDATA[<br>
+                    yippeee <br><br>
+                    <img class="_250px-square" src="images/gallery_posts/arduino-board.jpg" style="margin: 5px;"> <br><br>
+                    I found my old arduino board! <br>
+                    Everything still works well, only a little bit dusty, even the bluetooth module that I got still works! <br>
+                    (ignore the camera quality ;-;)
+                    ]]> </content>
+        <type> section </type>
+        <flex-align> flex-start </flex-align>
+        <text-align> left </text-align>
+        <loc> gallery </loc>
+    </post>
+
 
 <!-- GAMES -->
     <!-- <post>
@@ -93,7 +108,7 @@
         <content> <![CDATA[<br> 
                     <img src="images/coolNaN16_2.webp" style="width: 200px; aspect-ratio: 1;">
                     <br><br> 
-                    ╔═■ <span class="bold">Discord:</span> <a href="404.html"> @kenzie_cool16 </a> <br>
+                    ╔═■ <span class="bold">Discord:</span> <a href="404.html"> @kenzie_cool16 </a> ← empty for now <br>
                     ╚═■ <span class="bold">And that's it ;-; </span>
                     ]]>
         </content>
@@ -106,7 +121,7 @@
     <post>
         <title> Other sites </title>
         <content> <![CDATA[<br> 
-                    Links to all of my websites (maybe not all):
+                    Links to my other websites (maybe not all):
                     <br><br> 
                     ╔═■ <a href="https://kenziecool62.github.io/FindTheColor/"> Find The Color </a> <br>
                     ╠═■ <a href="https://kenziecool62.github.io/GuessTheColor/"> Guess The Color </a> <br>
